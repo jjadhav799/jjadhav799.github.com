@@ -1,53 +1,73 @@
-## 🚀 Next Steps
+<img src="masterhead.webp" alt="MasterHead" />
 
-1. ❌ **Update repository name to `jjadhav799.github.io`** (Current: `jjadhav799.github.com`)
-2. **Update [`config.json`](https://github.com/jjadhav799/jjadhav799.github.com/blob/main/config.json)** with your personal information, experience, and projects and then run [this workflow](https://github.com/jjadhav799/jjadhav799.github.com/actions/workflows/update-readme.yml) to update the README
-3. **Replace assets** in the [`assets/`](https://github.com/jjadhav799/jjadhav799.github.com/tree/main/assets/) folder with your own logos and project images
-4. **Add "featured" topic** to [GitHub repositories](https://github.com/jjadhav799?tab=repositories) you want to showcase
-5. **Enable GitHub Pages** in [repository settings](https://github.com/jjadhav799/jjadhav799.github.com/settings/pages) to make your portfolio live
-6. **Customize further** by adding more content
+<h1 align="center">Hi 👋, I'm Jayesh Abhiman Jadhav</h1>
+<h3 align="center">Passionate Data Scientist leveraging AI/ML and deep learning to extract actionable insights from data. Skilled in building intelligent systems, solving real-world problems, and driving data-driven decisions.</h3>
+<img align="right" alt="coding" width="400" src="lsQS6q92Q.gif">
 
----
+- 🔭 I’m currently working on advanced **Machine Learning** and **Deep Learning** projects
 
-# JAYESH ABHIMAN JADHAV - Developer Portfolio
+- 🌱 I’m currently learning **NLP, Computer Vision**, and **Data Engineering tools**
 
-<div align="left">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://jjadhav799.github.io/jjadhav799.github.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/jjadhav799)
+- 👯 I’m looking to collaborate on impactful **Data Science** projects
 
-</div>
+- 🤝 I’m open to roles in **AI Research**, **Data Science**, and **ML Engineering**
 
-Welcome to my developer portfolio! This website showcases my projects, skills, and professional journey.
+- 💬 Ask me about **Python, Pandas, Scikit-learn, TensorFlow, SQL, Data Analysis, and ML Algorithms**
 
-## ✨ Features
-
-- 🎨 **Modern Design** - Clean, responsive interface with dark/light theme support
-- 🚀 **Performance Optimized** - Fast loading with vanilla JavaScript
-- 📱 **Mobile First** - Fully responsive across all devices
-- 🔄 **Auto-Updated** - Content dynamically generated from `config.json`
-- 🎭 **Interactive** - Smooth animations and engaging user experience
-- 🌓 **Dark/Light Mode** - Smooth transitions with persistent preferences
-- 🔗 **Dynamic Social Links** - Configurable social media and professional links
-- ⚙️ **Zero Code Changes** - Everything configured through JSON
-
-## 📈 GitHub Stats
-
-<div align="left">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjadhav799&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjadhav799&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-## 🤝 Connect
-
-Let's connect and build something amazing together!
-
-- 🌐 **Portfolio**: [https://jjadhav799.github.io/jjadhav799.github.com](https://jjadhav799.github.io/jjadhav799.github.com)
-- 💻 **GitHub**: [https://github.com/jjadhav799](https://github.com/jjadhav799)
+- 📫 How to reach me **work.jayeshjadhav@gmail.com**
 
 ---
 
-*Based on [portfolio template](https://github.com/yashrajnayak/developer-portfolio) originally created by [Yashraj Nayak](https://github.com/yashrajnayak)*
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jayesh64042159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayesh64042159" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:23476210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23476210" height="30" width="40" /></a>
+<a href="https://instagram.com/_jay_799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jay_799" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/jaycoder_799" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jaycoder_799" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jjadhav799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jjadhav799" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjadhav799&show_icons=true&locale=en&layout=compact" alt="jjadhav799" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjadhav799&show_icons=true&locale=en" alt="jjadhav799" /></p>
